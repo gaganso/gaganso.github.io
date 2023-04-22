@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gagan Somashekar"
 title_separator          : "-"
 name                     : &name "Gagan Somashekar"
-description              : &description "personal description"
+description              : &description "Ph.D. candidate at Stony Brook University"
 url                      : https://gaganso.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gaganso/gaganso.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Gagan Somashekar"
   avatar           : "profile.png"
-  bio              : "Ph.D. student, Stony Brook University"
+  bio              : "Ph.D. candidate, Stony Brook University"
   location         : "Stony Brook, New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -93,16 +93,16 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "gagan.somashekar"
   foursquare       :
   github           : "gaganso"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "gagan_so"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : gagan-somashekar
+  orcid            : "http://orcid.org/0000-0001-6949-8685"
   pinterest        :
   soundcloud       :
   stackoverflow    : "4593127/gaganso"
